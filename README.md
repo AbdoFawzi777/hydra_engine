@@ -8,9 +8,10 @@ A Flutter package for multi-protocol authentication testing and access control r
 - **Multi-Protocol Support**: Structured interfaces for network login protocols.
 - **Concurrent Testing**: Multi-threaded execution for high performance.
 
-## 🌐 Official Platform & Command Center / رابط منصة التطبيق
+## 🌐 Official App Website & Platform / رابط موقع التطبيق الرسمي
 
-- **Website / Repository**: [https://github.com/AbdoFawzi777/redops-hub](https://github.com/AbdoFawzi777/redops-hub)
+- **Official Website**: [https://redops-hub.web.app/](https://redops-hub.web.app/)
+- **GitHub Monorepo**: [https://github.com/AbdoFawzi777/redops-hub](https://github.com/AbdoFawzi777/redops-hub)
 
 ## ⚖️ Ownership & Intellectual Property / حقوق الملكية الفكرية
 
@@ -46,5 +47,6 @@ Distributed under the MIT License.
 
 ## 🤝 Contributing & Support
 
+- **Official Website**: [https://redops-hub.web.app/](https://redops-hub.web.app/)
 - **Main Repository**: [https://github.com/AbdoFawzi777/redops-hub](https://github.com/AbdoFawzi777/redops-hub)
 - **Report Issues**: [https://github.com/AbdoFawzi777/hydra_engine/issues](https://github.com/AbdoFawzi777/hydra_engine/issues)
