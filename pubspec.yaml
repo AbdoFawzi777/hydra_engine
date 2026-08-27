@@ -1,6 +1,8 @@
 ﻿name: hydra_engine
-description: Multi-protocol network logon audit and authentication resilience tester for Dart & Flutter. Inspired by THC-Hydra.
+description: Multi-protocol network authentication audit and resilience tester for Dart and Flutter.
 version: 2.0.0
+repository: https://github.com/AbdoFawzi777/hydra_engine
+issue_tracker: https://github.com/AbdoFawzi777/hydra_engine/issues
 homepage: https://github.com/AbdoFawzi777/redops-hub/tree/main/packages/hydra_engine
 
 environment:
@@ -14,7 +16,6 @@ dependencies:
   http: ^1.1.0
 
 dev_dependencies:
-  crypto: ^3.0.3
   flutter_test:
     sdk: flutter
   flutter_lints: ^3.0.0
